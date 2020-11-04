@@ -3,6 +3,7 @@
     {
         "id":"1",
         "name":"VINI Productions",
+        "author":"piyumal",
         "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/vini.png",
         "nos":"15",
         "link":""
@@ -11,71 +12,14 @@
     {
         "id":"2",
         "name":"Wasthi",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/wasthi.png",
-        "nos":"12",
-        "link":""
-    },
-
-    {
-        "id":"1",
-        "name":"VINI Productions",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/vini.png",
-        "nos":"15",
-        "link":""
-    },
-
-    {
-        "id":"2",
-        "name":"Wasthi",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/wasthi.png",
-        "nos":"12",
-        "link":""
-    },
-    {
-        "id":"1",
-        "name":"VINI Productions",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/vini.png",
-        "nos":"15",
-        "link":""
-    },
-
-    {
-        "id":"2",
-        "name":"Wasthi",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/wasthi.png",
-        "nos":"12",
-        "link":""
-    },
-    {
-        "id":"1",
-        "name":"VINI Productions",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/vini.png",
-        "nos":"15",
-        "link":""
-    },
-
-    {
-        "id":"2",
-        "name":"Wasthi",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/wasthi.png",
-        "nos":"12",
-        "link":""
-    },
-    {
-        "id":"1",
-        "name":"VINI Productions",
-        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/vini.png",
-        "nos":"15",
-        "link":""
-    },
-
-    {
-        "id":"2",
-        "name":"Wasthi",
+        "author":"sandakelum",
         "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/wasthi.png",
         "nos":"12",
         "link":""
     }
+
+    
+   
 
 
 ]
