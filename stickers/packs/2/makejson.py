@@ -16,5 +16,5 @@ for s in slist:
     # print(s)
     stl = stl+'"'+s+'",\n'
 
-f.write('{\n "url":"%s%s",\n "list":[\n%s\n] \n}'%(url,pn,stl))
+f.write('{\n "url":"%s%s/",\n "list":[\n%s\n] \n}'%(url,pn,stl))
 f.close()
