@@ -1,7 +1,56 @@
 
 [
 
+    {
+        "id":"8",
+        "name":"cute cats",
+        "author":"one0",
+        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/cutescats.png",
+        "nos":"15",
+        "link":""
+    },
+    {
+        "id":"7",
+        "name":"චකබ්ලාස්",
+        "author":"one0",
+        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/chaka.png",
+        "nos":"20",
+        "link":""
+    },
 
+    {
+        "id":"6",
+        "name":"simple",
+        "author":"one0",
+        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/simple.png",
+        "nos":"14",
+        "link":""
+    },
+    {
+        "id":"5",
+        "name":"memes",
+        "author":"one0",
+        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/meme.png",
+        "nos":"20",
+        "link":""
+    },
+    {
+        "id":"4",
+        "name":"Ratta",
+        "author":"one0",
+        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/ratta.png",
+        "nos":"12",
+        "link":""
+    },
+
+    {
+        "id":"3",
+        "name":"pissu kanna",
+        "author":"one0",
+        "icon":"https://raw.githubusercontent.com/wijewardhane/notrepo/main/stickers/icons/kanna.png",
+        "nos":"12",
+        "link":""
+    },
 
     
     {
